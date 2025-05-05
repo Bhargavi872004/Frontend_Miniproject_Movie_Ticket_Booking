@@ -18,7 +18,8 @@ You can run my project in 2 ways:
 
 
 4.Movie-Ticket-Bokking(step-1):
-![Screenshot (54)](https://github.com/user-attachments/assets/d0826080-0cb2-44b3-8aec-2837e5a55c3a)
+![Screenshot (55)](https://github.com/user-attachments/assets/2899da2d-eb21-496b-8c65-79f1d98c6c35)
+
 
 5.Step2:
 ![Screenshot (56)](https://github.com/user-attachments/assets/7a338819-dacf-4858-98f0-48edc04a9f29)
