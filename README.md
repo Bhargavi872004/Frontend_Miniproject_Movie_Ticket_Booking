@@ -11,7 +11,9 @@ You can run my project in 2 ways:
 
 
 2.Sign up (if new user):
-![Screenshot (50)](https://github.com/user-attachments/assets/42aeb8ae-b478-4cf6-ac2f-b1ccbd3b074d)
+
+![Screenshot (59)](https://github.com/user-attachments/assets/0736cf66-3ebe-4f5c-8af2-e129b49746e8)
+
 
 3.Select Movie:
 ![Screenshot (53)](https://github.com/user-attachments/assets/ae87a530-cb13-4f32-b0ec-bd8505fb5d19)
